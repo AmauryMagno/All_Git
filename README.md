@@ -6,7 +6,8 @@ O git é uma sistema de controle de versão e revisão distribuída, rápido e e
 # Passo a Passo
 
 <ol>
-<li><a href="docs/01-Configuração SSH.md"> DConfiguração SSH</a></li>
-<li><a href="docs/02-Conexão GitLab.md"> Conexão GitLab</a></li>
-<li><a href="docs/03-Conexão GitHub.md"> Conexão GitHub</a></li>
+<li><a href="docs/01-Instalação do Git"> Instalaçaõ Git/a></li>
+<li><a href="docs/02-Configuração SSH.md"> Configuração SSH</a></li>
+<li><a href="docs/03-Conexão GitLab.md"> Conexão GitLab</a></li>
+<li><a href="docs/04-Conexão GitHub.md"> Conexão GitHub</a></li>
 </ol>
