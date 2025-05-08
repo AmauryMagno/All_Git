@@ -44,7 +44,7 @@ caso a listagem não retorne arquivos iniciando com `id_`, como o tradicional `i
 
 #### Copiar chave pública para área de transferência
 ```bash
-clip < ~/.ssh/id_ed25519.pubivate
+clip < ~/.ssh/id_ed25519.pub
 ```
 
 #### Mostrar chave no terminal
