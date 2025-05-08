@@ -3,6 +3,7 @@
 ## O que é o SSH?
 O protocolo Secure Shell(SSH) é um protocolo seguro de comunicação para enviar e receber dados, estabelecendo uma comunicação em uam rede não segura entre cliente e servidor, servidor e servidor. Para isto o SSH criptograga a conexão entre as duas partes do processo de comunicação atráves da utilização de chaves públicas e provadas.<a href="[src/README.md](https://www.ssh.com/academy/ssh)"> Saiba Mais...</a>
 
+<img src="./imgs/SSH_simplified_protocol_diagram-2.png" alt="SSHProtocolDiagram" width="400" />
 
 ### Por que usar SSH?
 O SSH é um protocolo amplamente utilizado nos processos de comunicação, com destaque as plataformas de versionamento como GitLab e GitHub que utilizam o protocolo para estabelecer uma comunicação com maquinas locais, tornando possível a integração entre a plataforma e o computador, facilitando de forma segura o trafégo de dados em comandos utilizados pelo Git, como `git clone`, `git push` e `git pull` por exemplo. 
