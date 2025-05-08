@@ -7,6 +7,6 @@ O git é uma sistema de controle de versão, revisão distribuída, rápido e es
 
 <ol>
 <li><a href="docs/01-Configuração SSH.md"> DConfiguração SSH</a></li>
-<li><a href="docs/02-Conexão GitLab.md"> onexão GitLab</a></li>
+<li><a href="docs/02-Conexão GitLab.md"> Conexão GitLab</a></li>
 <li><a href="docs/03-Conexão GitHub.md"> Conexão GitHub</a></li>
 </ol>
